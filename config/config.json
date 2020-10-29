@@ -1,0 +1,9 @@
+{
+  "development": {
+  "url": "postgres://tuaodyvl:IjOG78wKlZOjXO0_NSNfGu3wdlP5_VAW@kandula.db.elephantsql.com:5432/tuaodyvl",
+  "dialect": "postgres",
+  "operatorsAliases": "0"
+  }
+}
+
+
